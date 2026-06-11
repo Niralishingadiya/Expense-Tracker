@@ -1,8 +1,8 @@
 # Expense-Tracker
 ## THis project is about how to track your expense
 
-### Tech stack
+### Tech stack Used
 -python
 -streamlit
 -python Function
-This project help to manage day to day expense
+
